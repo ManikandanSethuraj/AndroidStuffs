@@ -12,7 +12,10 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/curd" />
+            <option value="$PROJECT_DIR$/kotlinflows" />
             <option value="$PROJECT_DIR$/notifications" />
+            <option value="$PROJECT_DIR$/retrofitcrash" />
+            <option value="$PROJECT_DIR$/threads" />
           </set>
         </option>
       </GradleProjectSettings>

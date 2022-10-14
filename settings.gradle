@@ -16,3 +16,6 @@ rootProject.name = "AndroidExamples"
 include ':app'
 include ':notifications'
 include ':curd'
+include ':kotlinflows'
+include ':retrofitcrash'
+include ':threads'
