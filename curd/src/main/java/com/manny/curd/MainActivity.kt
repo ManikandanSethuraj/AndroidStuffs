@@ -8,11 +8,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // Commit 1
-        // Commit 2
-        // Commit 3
-
-        // New Commit
-
+        // New Commit 1 from Test.
+        // New Commit 2 from Test.
+        // New Commit 3 from Test.
     }
 }
